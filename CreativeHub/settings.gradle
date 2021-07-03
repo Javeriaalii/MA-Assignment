@@ -1,0 +1,2 @@
+rootProject.name = "CreativeHub"
+include ':app'
